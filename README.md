@@ -4,4 +4,6 @@ One of the first challenges I had was using XR Origin instead of XR Rig. This ca
 
 While exploring my maze with the headset, I noticed is that if you get really close to the walls and doors you can lean forward and poke your head through into the next room. It seems like this is a common issue, and something that many students encounter.
 
+Once I had created the first key and door, it was really easy to create the second set - I just had to write a short script to deactivate the first key so that the player would need to search for a second one in order to get to the end. 
+
 I didn't end up including additional assets, but I look forward to using probuilder more to create custom objects!
